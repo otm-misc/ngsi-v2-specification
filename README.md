@@ -1,1 +1,1 @@
-# ngsi-v2-specification
+# FIWARE NGSI v2 Specification
